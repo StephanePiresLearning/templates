@@ -6,8 +6,10 @@ type(scope) : description
 
 fonctionnalité / feature : Adding a new fonctionnality, add new code
 refractoring : Modiying an existing code without modifying the fonctionnality
+ecolution / evolution : Adding code and content to a fonctionnality. But not changing the purpose of the fonctionnality
 correction / fix : Resolving a bug, modifying code and functionnality. But not the purpose of the fonctionnality
 tmp / wip : Temporary commit
+initiale / initial : First commit of a project. 
 
 # Scope
 
