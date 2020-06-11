@@ -10,6 +10,7 @@ ecolution / evolution : Adding code and content to a fonctionnality. But not cha
 correction / fix : Resolving a bug, modifying code and functionnality. But not the purpose of the fonctionnality
 tmp / wip : Temporary commit
 initiale / initial : First commit of a project. 
+moulinage / milling : Running some automated code that generate new files. 
 
 # Scope
 
