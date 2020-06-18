@@ -19,6 +19,10 @@ A brief summary of the story. Description of what to implement and where to impl
 - [ ] Task 3
 - [ ] Task 4
 
+### Variables
+
+Variables impacted by the stories
+
 ## Screenshot/Gif current state (UI)
 
 Picture/Gif of the current state of the application, before any modification (master branch). Will help to compare the state of the product (before/after)
